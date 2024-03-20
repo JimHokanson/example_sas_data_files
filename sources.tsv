@@ -15,7 +15,7 @@ tinycopy.sas7bdat	https://github.com/reikoch/testfiles/blob/master/
 xpttest.sas7bdat	https://github.com/reikoch/testfiles/blob/master/				
 date_dd_mm_yyyy_copy.sas7bdat	https://github.com/datacleaner/metamodel_extras/issues/5		Y	Y	
 max_sas_date.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/	https://github.com/pandas-dev/pandas/issues/56014	Y		
-datetime.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/				
+datetime.sas7bdat	https://github.com/Tagar/dropbox/blob/master/10rec.sas7bdat				
 0x00controlbyte.sas7bdat.bz2	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/				
 0x40controlbyte.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/				
 airline.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/				
@@ -47,7 +47,23 @@ test8.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sa
 test9.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/				
 zero_rows.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/				
 zero_variables.sas7bdat	https://github.com/pandas-dev/pandas/blob/main/pandas/tests/io/sas/data/				
+FileFromJMP.sas7bdat	https://github.com/tidyverse/haven/issues/724		Y		
+sas_data_haven_728.sas7bdat	https://github.com/tidyverse/haven/issues/728		Y		
+depress.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/depress.sas7bdat				
+drugprob.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/drugprob.sas7bdat				
+drugtest.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/drugtest.sas7bdat				
+environ.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/environ.sas7bdat				
+event1.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/event1.sas7bdat				
+event2.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/event2.sas7bdat				
+event3.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/event3.sas7bdat				
+event4.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/event4.sas7bdat				
+firstsex.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/firstsex.sas7bdat				
+gpa.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/gpa.sas7bdat				
+gss96.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/gss96.sas7bdat				
 hltheds2006.sas7bdat	http://www.cdc.gov/HealthyYouth/shpps/2006/sas/hltheds2006.sas7bdat				
+religion.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/religion.sas7bdat				
+stress.sas7bdat	http://wps.ablongman.com/wps/media/objects/1108/1135330/stress.sas7bdat				
+yrbscol.sas7bdat	http://www.cdc.gov/HealthyYouth/yrbs/data/college/yrbscol.sas7bdat				
 physeds2006.sas7bdat	http://www.cdc.gov/HealthyYouth/shpps/2006/sas/physeds2006.sas7bdat				
 gfrance.sas7bdat	http://datavis.ca/gallery/guerry/maps/gfrance.sas7bdat				
 gfrance2.sas7bdat	http://datavis.ca/gallery/guerry/maps/gfrance2.sas7bdat				
@@ -68,7 +84,6 @@ brumm.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/brumm.sas7b
 byd.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/byd.sas7bdat				
 canada.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/canada.sas7bdat				
 capm4.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/capm4.sas7bdat				
-cars.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/cars.sas7bdat				
 cattle.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/cattle.sas7bdat				
 ces.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/ces.sas7bdat				
 cespro.sas7bdat	http://www.principlesofeconometrics.com/poe4/data/sas/cespro.sas7bdat				
@@ -202,4 +217,6 @@ saheart.sas7bdat	http://www.richardcharnigo.net/CPH636S09/saheart.sas7bdat
 colon.sas7bdat	http://biostat3.net/download/sas/colon.sas7bdat				
 ivesc.sas7bdat	http://www.restore.ac.uk/PEAS/ex6datafiles/data/ivesc.sas7bdat				
 cbsatocountycrosswalk.sas7bdat	http://www.nber.org/cbsa-msa-fips-ssa-county-crosswalk/cbsatocountycrosswalk.sas7bdat				
+osteo_analysis_data.sas7bdat	http://www.cdc.gov/nchs/tutorials/Dietary/Downloads/osteo_analysis_data.sas7bdat				
 normalrom.sas7bdat	http://www.cdc.gov/ncbddd/jointrom/documents/normalrom.sas7bdat				
+https://github.com/Tagar/dropbox/blob/master/10rec.sas7bdat	https://github.com/Tagar/dropbox/blob/master/10rec.sas7bdat	https://github.com/BioStatMatt/sas7bdat/issues/12	Y		
